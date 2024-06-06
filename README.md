@@ -69,5 +69,4 @@ Se você encontrar algum problema ou tiver sugestões de melhorias, sinta-se à 
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
+Este projeto está licenciado sob a licença MI
