@@ -33,14 +33,14 @@ O jogo é jogado em um tabuleiro 3x3. Dois jogadores alternam as jogadas colocan
 
 4. Siga as instruções na tela. O tabuleiro é numerado de 1 a 9 conforme o esquema abaixo:
     ```
-         1     |     2     |     3     
-      (1,1)  |  (1,2)  |  (1,3)  
+        1    |      2    |     3     
+      (1,1)  |    (1,2)  |   (1,3)  
     ---------|-----------|-----------
-         4     |     5     |     6     
-      (2,1)  |  (2,2)  |  (2,3)  
+        4    |     5     |     6     
+      (2,1)  |   (2,2)   |   (2,3)  
     ---------|-----------|-----------
-         7     |     8     |     9     
-      (3,1)  |  (3,2)  |  (3,3)  
+        7    |     8     |     9     
+      (3,1)  |   (3,2)   |   (3,3)  
     ```
 
 5. Digite o número correspondente à posição onde deseja colocar seu marcador.
