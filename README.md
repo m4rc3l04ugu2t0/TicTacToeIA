@@ -17,7 +17,7 @@ O jogo é jogado em um tabuleiro 3x3. Dois jogadores alternam as jogadas colocan
 
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/seu-usuario/jogo-da-velha-cpp.git
+    git clone https://github.com/m4rc3l04ugu2t0/TicTacToeIA.git
     cd jogo-da-velha-cpp
     ```
 
