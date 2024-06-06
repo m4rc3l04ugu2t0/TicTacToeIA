@@ -28,7 +28,7 @@ O jogo é jogado em um tabuleiro 3x3. Dois jogadores alternam as jogadas colocan
 
 3. Execute o jogo:
     ```sh
-    ./jogo-da-velha
+    ./tictactoe 
     ```
 
 4. Siga as instruções na tela. O tabuleiro é numerado de 1 a 9 conforme o esquema abaixo:
