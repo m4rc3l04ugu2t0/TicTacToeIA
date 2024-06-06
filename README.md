@@ -69,4 +69,4 @@ Se você encontrar algum problema ou tiver sugestões de melhorias, sinta-se à 
 
 ## Licença
 
-Este projeto está licenciado sob a licença MI
+Este projeto está licenciado sob a licença T.
